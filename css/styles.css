@@ -76,6 +76,10 @@ span.jobs {
   background-color: aquamarine;
 }
 
-.year {
+.year ul li {
   float: right;
+}
+
+.background {
+  float: left;
 }
