@@ -75,3 +75,7 @@ span.jobs {
 .cookie li {
   background-color: aquamarine;
 }
+
+.year {
+  float: right;
+}
