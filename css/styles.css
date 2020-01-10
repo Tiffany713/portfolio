@@ -59,3 +59,19 @@ span.jobs {
   border: 2px solid purple;
   margin: 12px;
 }
+
+.wiki li {
+  background-color: aquamarine;
+}
+
+.band li {
+  background-color: aquamarine;
+}
+
+.cupcake li {
+  background-color: aquamarine;
+}
+
+.cookie li {
+  background-color: aquamarine;
+}
