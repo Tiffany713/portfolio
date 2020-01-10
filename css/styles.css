@@ -1,12 +1,25 @@
 .header {
   text-align: center;
   margin: 50px;
+  font-size: 30pt;
 }
 
 h1 {
-  color: rgb(54, 103, 177)
+  color: rgb(54, 103, 177);
 }
 
 h2 {
-  color: rgb(54, 103, 177)
+  color: rgb(54, 103, 177);
 }
+
+img {
+  width: 150px;
+  float: left;
+}
+
+.row:last-child {
+  background-color: rgb(192, 192, 224);
+  padding: 2em;
+  
+}
+
