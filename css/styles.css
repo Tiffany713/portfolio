@@ -13,13 +13,21 @@ h2 {
 }
 
 img {
-  width: 150px;
+  width: 200px;
   float: left;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .row:last-child {
   background-color: rgb(192, 192, 224);
   padding: 2em;
-  
+}
+
+.well {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
 }
 
