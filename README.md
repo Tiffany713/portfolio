@@ -3,6 +3,8 @@
 ####_**Tiffany Nguyen**_
 ##_Description_
 _This portfolio contains the "my about" section, educational background and experience, a list of my interests, and a list of projects with a brief description of each._
+##Link
+*_https://github.com/Tiffany713/portfolio.git
 ##Setup
 *_Copy or download github url
 *_Open Terminal
