@@ -8,7 +8,7 @@
 This webpage shows my bio, educational, and work background. It also includes a list of webpages I've done and a link to each.
 
 ## Link
-https://github.com/Tiffany713/portfolio.git
+https://tiffany713.github.io/portfolio/
 
 ## Setup/Installation Requirements
 * _Click the green button labeld "Clone or download" located in the "Clone with HTTPs" section.
